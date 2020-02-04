@@ -1,0 +1,11 @@
+C:\Users\kyleg\source\repos\Lab12-UML_Diagram\Lab12-UML_Diagram\bin\Debug\netcoreapp3.0\Lab12-UML_Diagram.exe
+C:\Users\kyleg\source\repos\Lab12-UML_Diagram\Lab12-UML_Diagram\bin\Debug\netcoreapp3.0\Lab12-UML_Diagram.deps.json
+C:\Users\kyleg\source\repos\Lab12-UML_Diagram\Lab12-UML_Diagram\bin\Debug\netcoreapp3.0\Lab12-UML_Diagram.runtimeconfig.json
+C:\Users\kyleg\source\repos\Lab12-UML_Diagram\Lab12-UML_Diagram\bin\Debug\netcoreapp3.0\Lab12-UML_Diagram.runtimeconfig.dev.json
+C:\Users\kyleg\source\repos\Lab12-UML_Diagram\Lab12-UML_Diagram\bin\Debug\netcoreapp3.0\Lab12-UML_Diagram.dll
+C:\Users\kyleg\source\repos\Lab12-UML_Diagram\Lab12-UML_Diagram\bin\Debug\netcoreapp3.0\Lab12-UML_Diagram.pdb
+C:\Users\kyleg\source\repos\Lab12-UML_Diagram\Lab12-UML_Diagram\obj\Debug\netcoreapp3.0\Lab12-UML_Diagram.csprojAssemblyReference.cache
+C:\Users\kyleg\source\repos\Lab12-UML_Diagram\Lab12-UML_Diagram\obj\Debug\netcoreapp3.0\Lab12-UML_Diagram.AssemblyInfoInputs.cache
+C:\Users\kyleg\source\repos\Lab12-UML_Diagram\Lab12-UML_Diagram\obj\Debug\netcoreapp3.0\Lab12-UML_Diagram.AssemblyInfo.cs
+C:\Users\kyleg\source\repos\Lab12-UML_Diagram\Lab12-UML_Diagram\obj\Debug\netcoreapp3.0\Lab12-UML_Diagram.dll
+C:\Users\kyleg\source\repos\Lab12-UML_Diagram\Lab12-UML_Diagram\obj\Debug\netcoreapp3.0\Lab12-UML_Diagram.pdb
